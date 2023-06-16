@@ -1,0 +1,11 @@
+Ro Cars | 1240 Kingston Rd | 980-123-1234
+13579|2021|Ferrari|SF90|Red|Car|8530|625,000
+17402|2023|Cadillac|Escalade-V|Black|Truck|196|138,000
+18402|2022|Roll Royce|Phantom|White|Car|2698|450,000
+17291|2023|Bentley|Bentayga|Black|SUV|73|260,000
+13825|2023|Audi|R8|Black|Car|54|155,000
+12593|2023|Buick|GL8|Grey|Van|49|75,000
+19372|2023|BMW|i7|Black|Car|29|120,000
+17389|2022|Mercedes-Benz|G-Class|Red|SUV|5602|140,000
+18258|2012|Lexus|LFA|Yellow|Car|4910|465,000
+18284|2022|Hummer|EV-Pickup|White|Truck|1092|110,000
